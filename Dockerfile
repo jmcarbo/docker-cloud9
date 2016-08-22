@@ -1,6 +1,6 @@
 # Cloud9 server
 # A lot inspired by https://hub.docker.com/r/gai00/cloud9/~/dockerfile/
-#                   https://hub.docker.com/r/kdelfour/cloud9-docker/~/dockerfile/
+#                  https://hub.docker.com/r/kdelfour/cloud9-docker/~/dockerfile/
 
 FROM node:slim
 MAINTAINER Antoine GIRARD <antoine.girard@sapk.fr>
